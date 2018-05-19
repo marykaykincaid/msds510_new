@@ -2,7 +2,7 @@
 # 4/25/18
 # Midterm Assignment
 
-# imports
+# import used in this .py file
 
 
 # functions used in this .py file
