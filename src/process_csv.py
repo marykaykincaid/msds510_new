@@ -2,7 +2,8 @@
 # 4/25/18
 # Midterm Assignment
 
-# import statements
+
+# import used in this .py file
 
 
 # functions used in this .py file
